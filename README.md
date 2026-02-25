@@ -88,17 +88,3 @@ Tech:
 Node.js, TypeScript, Auth.js, Resend, MongoDB, Upstash, Upstash Redis, Zod
 
 ---
-## GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=matanblay241&show_icons=true&hide_border=true&theme=transparent" 
-    alt="GitHub stats" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matanblay241&layout=compact&hide_border=true&theme=transparent" 
-    alt="Top languages" 
-    height="170"
-  />
-</p>
