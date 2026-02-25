@@ -1,115 +1,97 @@
-<h1 align="center">Hey, I'm Matan 👋</h1>
-<h3 align="center">Full-Stack Developer • Product Builder • Buildathon Winner 🏆</h3>
+<h1 align="center">Matan Blay</h1>
+<h3 align="center">Full-Stack Developer • Product Builder • Buildathon 2026 Winner</h3>
 
 <p align="center">
-  <a href="https://bymatan.com/">Portfolio</a> • 
-  <img width="3840" height="3840" alt="image" src="https://github.com/user-attachments/assets/5ad941f0-ca94-449a-8187-8138bc195665" /> <a href="https://www.linkedin.com/in/matanblay/">LinkedIn</a> • 
-  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/a9c019e5-4360-42fb-baa3-5555d081b8a6" /> <a href="https://github.com/matanblay241">GitHub</a>
+  <a href="https://bymatan.com/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/matanblay/">LinkedIn</a> •
+  <a href="https://github.com/matanblay241">GitHub</a>
 </p>
 
 ---
 
-# 🏆 Featured Project
-## 🥇 AffilFinder (formerly AffiliGate) — Buildathon 2026 Winner
+## Featured Project
 
-🚀 Award-winning project built during Buildathon 2026  
-https://affilfinder.com  
-https://devpost.com/software/affiligate
+### AffilFinder (formerly AffiliGate) — Buildathon 2026 Winner
 
-- Modern affiliate discovery platform  
-- Full-stack architecture (Web + App + Backend)  
-- Performance-focused UI/UX and scalable infrastructure  
-- Now evolved into **AffilFinder**
+Award-winning project built during Buildathon 2026.  
+AffiliGate has since evolved into AffilFinder.
 
----
+- Modern affiliate discovery platform
+- Full-stack architecture (Web, App, Backend)
+- Performance-focused UI/UX and scalable infrastructure
 
-# 🌐 Portfolio
-<p align="center">
-  <a href="https://bymatan.com/">
-    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+Website: https://affilfinder.com  
+Portfolio: https://bymatan.com/
 
 ---
 
-# 🔗 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/matanblay/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
-  <a href="https://bymatan.com/">
-    <img src="https://skillicons.dev/icons?i=vercel" height="50"/>
-  </a>
-</p>
+## Portfolio
+
+<a href="https://bymatan.com/">
+  <img src="https://img.shields.io/badge/Visit-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 ---
 
-# 🧰 Languages and Tools (Website)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nodejs,mongodb,vercel,figma,git,github" />
-</p>
+## Connect
 
-### Website Stack
-- Next.js (App Router)  
-- TypeScript  
-- TanStack Query  
-- Tailwind CSS  
-- shadcn/ui  
-- Radix UI  
-- Framer Motion  
-- GSAP  
-- Lenis  
-- Lottie  
-- React Hook Form  
-- Zod  
-- class-variance-authority  
-- tailwind-merge  
-- lucide-react  
-- ESLint  
-- Prettier  
-- Vitest  
-- Playwright  
+<a href="https://www.linkedin.com/in/matanblay/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://bymatan.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" />
+</a>
 
 ---
 
-# 📱 App Development (iOS)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,apple" />
+## Languages and Tools (Website)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" />
 </p>
 
-- Swift  
-- SwiftUI  
-- Xcode  
-- Combine  
-- UIKit (when needed)  
-- TestFlight  
-- App Store Connect  
+Tech:
+Next.js (App Router), TypeScript, TanStack Query, Tailwind CSS, shadcn/ui, Radix UI, Framer Motion, GSAP, Lenis, Lottie, React Hook Form, Zod, class-variance-authority, tailwind-merge, lucide-react, ESLint, Prettier, Vitest, Playwright
 
 ---
 
-# ⚙️ Backend (Shared by Website & App)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,mongodb" />
+## App Development (iOS)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" />
 </p>
 
-- Node.js  
-- TypeScript  
-- Auth.js  
-- Resend  
-- MongoDB  
-- Upstash  
-- Upstash Redis  
-- Zod  
+Tech:
+Swift, SwiftUI, Xcode, Combine, UIKit (when needed), TestFlight, App Store Connect
 
 ---
 
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matanblay241&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matanblay241&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+## Backend (Shared by Website & App)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
 </p>
+
+Tech:
+Node.js, TypeScript, Auth.js, Resend, MongoDB, Upstash, Upstash Redis, Zod
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  ⭐ Building modern, production-ready apps with great UX & performance
+  <img src="https://github-readme-stats.vercel.app/api?username=matanblay241&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matanblay241&layout=compact&hide_border=true" height="165" />
 </p>
-
